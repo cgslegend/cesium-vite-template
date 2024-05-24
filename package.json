@@ -1,0 +1,25 @@
+{
+  "name": "vue-cesium-model",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "cesium": "^1.117.0",
+    "cesium-navigation-es6": "^3.0.9",
+    "element-plus": "^2.7.3",
+    "unplugin-auto-import": "^0.17.6",
+    "unplugin-vue-components": "^0.27.0",
+    "vite-plugin-cesium": "^1.2.22",
+    "vue": "^3.4.21",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.2.0"
+  }
+}
